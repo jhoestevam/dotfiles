@@ -1,4 +1,4 @@
-# Felipe Frizzo's dotfiles for Linux.
+# Jhonatan Martins's dotfiles for Linux.
 This repository include all of my custom dotfiles.
 
 This include the following step.
@@ -16,7 +16,7 @@ Download
 ```shell
 mkdir dotfiles
 cd dotfiles
-curl -#L http://github.com/felipefrizzo/dotfiles/tarball/linux/ubuntu | tar -xvz --strip-components 1
+curl -#L http://github.com/jhoestevam/dotfiles/tarball/linux/ubuntu | tar -xvz --strip-components 1
 chmod +x *.sh
 sh setup.sh
 cd ..
