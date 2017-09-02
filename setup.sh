@@ -46,6 +46,7 @@ sh install-spotify.sh
 sh install-skype-beta.sh
 sh install-gitkraken.sh
 sh install-popcorn.sh
+sh install-messenger.sh
 
 echo ""
 echo "Setup pyenv"
