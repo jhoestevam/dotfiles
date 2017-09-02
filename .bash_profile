@@ -43,7 +43,7 @@ elif [ -d $HOME/.rvm ]; then
   export PATH="$PATH:$HOME/.rvm/bin"
 fi
 
-export PATH=$PATH:/home/felipefrizzo/terraform
+export PATH=$PATH:/home/jhoestevam/terraform
 export JAVA_HOME="/usr/lib/jvm/java-8-oracle"
 
 # Run source on bash_completion at the end of file to make sure process all alias
