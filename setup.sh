@@ -22,6 +22,7 @@ sh install-terraform.sh
 sh install-virtualbox.sh
 sh install-vagrant.sh
 sh install-netbeans.sh
+sh install-glassfish.sh
 
 echo ""
 echo "Setup Text Editors"

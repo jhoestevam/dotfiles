@@ -45,6 +45,8 @@ fi
 
 export PATH=$PATH:/home/jhoestevam/terraform
 export JAVA_HOME="/usr/lib/jvm/java-8-oracle"
+export ANDROID_HOME=/home/jhoestevam/Android/Sdk
+export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 
 # Run source on bash_completion at the end of file to make sure process all alias
 source $HOME/.bash_completion
